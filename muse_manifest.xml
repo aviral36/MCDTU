@@ -1,0 +1,45 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="mcdtu.com" resolutions="1x" timestamp="1482304253642">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="for-recruiters.css" crc="3800946016" ref="for-recruiters"/>
+    <file name="index.css" crc="4068629577" ref="index"/>
+    <file name="resources.css" crc="4198487141" ref="resources"/>
+    <file name="societies.css" crc="239101336" ref="societies"/>
+    <file name="research.css" crc="465716010" ref="research"/>
+    <file name="home.css" crc="354350049" ref="home"/>
+    <file name="contact-us.css" crc="239416943" ref="contact-us"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="home:societies:research:resources:index:for-recruiters:contact-us"/>
+    <file name="museutils.js" crc="183364071" ref="home:societies:research:resources:index:for-recruiters:contact-us"/>
+    <file name="pie.js" crc="3827607177" ref="home:societies:research:resources:index:for-recruiters:contact-us"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="home:societies:research:resources:index:for-recruiters:contact-us"/>
+    <file name="jquery.watch.js" crc="71412426" ref="home:societies:research:resources:index:for-recruiters:contact-us"/>
+    <file name="webpro.js" crc="3803554875" ref="home"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="home"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="home"/>
+    <file name="touchswipe.js" crc="4038331989" ref="home"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="home:societies:research:resources:index:for-recruiters:contact-us"/>
+    <file name="html5shiv.js" crc="4241844378" ref="home:societies:research:resources:index:for-recruiters:contact-us"/>
+  </folder>
+  <folder name="images">
+    <file name="dtu_mcdtu.png" crc="3864289574" seo="true" ref="home:societies:research:resources:index:for-recruiters:contact-us"/>
+    <file name="cactus.jpg" crc="491424337" seo="true" ref="home"/>
+    <file name="blank.gif" crc="4208392903" ref="home"/>
+    <file name="road.jpg" crc="180693847" seo="true" ref="home"/>
+    <file name="trees.jpg" crc="4071309946" seo="true" ref="home"/>
+    <file name="loading.gif" crc="3815509949" ref="home"/>
+    <file name="dtu_clocktower.png" crc="181149388" seo="true" ref="home"/>
+    <file name="lamp_off.png" crc="300772571" seo="true" ref="home"/>
+    <file name="lamp_on.png" crc="4132897887" seo="true" ref="home"/>
+    <file name="footergrass.png" crc="374633489" seo="true" ref="home"/>
+    <file name="library.png" crc="334506737" seo="true" ref="resources"/>
+  </folder>
+  <file name="home.html" crc="4031454122" seo="true" mt="1482300987037" redirect="true"/>
+  <file name="societies.html" crc="97068438" seo="true" mt="1482249309615" redirect="true"/>
+  <file name="research.html" crc="433629899" seo="true" mt="1482249354888" redirect="true"/>
+  <file name="resources.html" crc="3975394463" seo="true" mt="1482304206332" redirect="true"/>
+  <file name="index.html" crc="4277240662" seo="true" mt="1482248865770" redirect="true"/>
+  <file name="for-recruiters.html" crc="444050701" seo="true" mt="1482249366775" redirect="true"/>
+  <file name="contact-us.html" crc="512421263" seo="true" mt="1482249222965" redirect="true"/>
+</manifest>
